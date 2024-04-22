@@ -7,3 +7,4 @@
 #-assignment7:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_ASSIG_7.ipynb
 #-assignment8:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_ASSIGNMENT_8.ipynb
 #-assignment9:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_Assignment_9.ipynb
+#-assignment10:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_ASSIGNMENT_10.ipynb
