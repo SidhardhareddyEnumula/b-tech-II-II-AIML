@@ -9,3 +9,4 @@
 #-assignment9:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_Assignment_9.ipynb
 #-assignment10:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_ASSIGNMENT_10.ipynb
 #-assignment11:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/2203A51281_ASSIGNMENT_11.ipynb
+#-AIML PROJECT-epl match predection:https://github.com/SidhardhareddyEnumula/b-tech-II-II-AIML/blob/main/AIML_PROJECT.ipynb
